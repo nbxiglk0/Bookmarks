@@ -1,8 +1,15 @@
 # Bookmarks
 一些随手存的文章和pdf
 ## WebSites
+### OAuth
+1. [hidden-oauth-attack-vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)
+### Cache Attack
 1. [Caching the Un-cacheables - Abusing URL Parser Confusions (Web Cache Poisoning Technique)](https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html)
-2. [design-patterns-java](https://www.decipherzone.com/blog-detail/design-patterns-java?continueFlag=1f350539170b2ba2f112b6ed2113990e)
+### JAVA
+1. [design-patterns-java](https://www.decipherzone.com/blog-detail/design-patterns-java?continueFlag=1f350539170b2ba2f112b6ed2113990e)
+### DNS
+1. [Melting the DNS Iceberg: Taking over your infrastructure Kaminsky style](https://sec-consult.com/blog/detail/melting-the-dns-iceberg-taking-over-your-infrastructure-kaminsky-style/)
+2. [guide-to-dns-takeovers](https://blog.projectdiscovery.io/guide-to-dns-takeovers/)
 ## PDF
 1. [对基于Git的版本控制服务的通用攻击面的探索](/对基于Git的版本控制服务的通用攻击面的探索.pdf)
 2. [自动化API漏洞Fuzz实战【KCon2022】](/自动化API漏洞Fuzz实战【KCon2022】.pdf)
