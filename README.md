@@ -4,6 +4,7 @@
     - [OAuth](#oauth)
     - [Cache Attack](#cache-attack)
     - [JAVA](#java)
+    - [XXE](#xxe)
     - [PHP](#php)
     - [DNS](#dns)
     - [BugBounty](#bugbounty)
@@ -19,7 +20,8 @@
 1. [Caching the Un-cacheables - Abusing URL Parser Confusions (Web Cache Poisoning Technique)](https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html)
 ### JAVA
 1. [design-patterns-java](https://www.decipherzone.com/blog-detail/design-patterns-java?continueFlag=1f350539170b2ba2f112b6ed2113990e)
-
+### XXE
+1.[exploiting-xxe-with-local-dtd-files](https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/)
 ### PHP
 1. [PHP FILTERS CHAIN: WHAT IS IT AND HOW TO USE IT](https://www.synacktiv.com/publications/php-filters-chain-what-is-it-and-how-to-use-it.html#)  
 2. [persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html](https://www.synacktiv.com/publications/persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html)
