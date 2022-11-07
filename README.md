@@ -40,3 +40,4 @@
 6. [us-17-Munoz-Friday-The-13th-JSON-Attacks-wp](/us-17-Munoz-Friday-The-13th-JSON-Attacks-wp.pdf)
 7. [us-17-Gil-Web-Cache-Deception-Attack-wp](/us-17-Gil-Web-Cache-Deception-Attack-wp.pdf)
 8. [Bug Bounty on Steroids](/Bug%20Bounty%20on%20Steroids.pdf)
+9. [What is SSRF and how to Detect them on Web Application](/What%20is%20SSRF%20and%20how%20to%20Detect%20them%20on%20Web%20Application.pdf)
