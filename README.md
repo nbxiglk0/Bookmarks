@@ -13,7 +13,8 @@
 一些随手存的文章和pdf
 ## WebSites
 ### WAF
-1. [waf-bypass-techniques-using-http-standard-and-web-servers-behaviour](https://www.slideshare.net/SoroushDalili/waf-bypass-techniques-using-http-standard-and-web-servers-behaviour)
+1. [waf-bypass-techniques-using-http-standard-and-web-servers-behaviour](https://www.slideshare.net/SoroushDalili/waf-bypass-techniques-using-http-standard-and-web-servers-behaviour)  
+2. [Bug Writeup: RCE via SSTI on Spring Boot Error Page with Akamai WAF Bypass](https://h1pmnh.github.io/post/writeup_spring_el_waf_bypass/)
 ### OAuth
 1. [hidden-oauth-attack-vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)
 ### Cache Attack
@@ -21,7 +22,7 @@
 ### JAVA
 1. [design-patterns-java](https://www.decipherzone.com/blog-detail/design-patterns-java?continueFlag=1f350539170b2ba2f112b6ed2113990e)
 ### XXE
-1.[exploiting-xxe-with-local-dtd-files](https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/)
+1. [exploiting-xxe-with-local-dtd-files](https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/)
 ### PHP
 1. [PHP FILTERS CHAIN: WHAT IS IT AND HOW TO USE IT](https://www.synacktiv.com/publications/php-filters-chain-what-is-it-and-how-to-use-it.html#)  
 2. [persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html](https://www.synacktiv.com/publications/persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html)
