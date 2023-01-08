@@ -6,6 +6,7 @@
     - [JAVA](#java)
     - [XXE](#xxe)
     - [XSS](#xss)
+    - [ESI Injection](#esi-injection)
     - [PHP](#php)
     - [DNS](#dns)
     - [BugBounty](#bugbounty)
@@ -31,9 +32,12 @@
 * [MyBatis缓存机制](https://tech.meituan.com/2018/01/19/mybatis-cache.html)
 ### XXE
 * [exploiting-xxe-with-local-dtd-files](https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/)
-
 ### XSS
 * [如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
+### ESI Injection
+* [Beyond XSS: Edge Side Include Injection](https://www.gosecure.net/blog/2018/04/03/beyond-xss-edge-side-include-injection/)
+* [esi-injection-part-2-abusing-specific-implementations](https://www.gosecure.net/blog/2019/05/02/esi-injection-part-2-abusing-specific-implementations/)
+* [Exploring the World of ESI Injection](https://infosecwriteups.com/exploring-the-world-of-esi-injection-b86234e66f91?source=social.tw)
 ### PHP
 * [PHP FILTERS CHAIN: WHAT IS IT AND HOW TO USE IT](https://www.synacktiv.com/publications/php-filters-chain-what-is-it-and-how-to-use-it.html#)  
 * [persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html](https://www.synacktiv.com/publications/persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html)
