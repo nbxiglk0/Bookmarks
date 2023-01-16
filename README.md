@@ -50,6 +50,7 @@
 ## PDF
 * [对基于Git的版本控制服务的通用攻击面的探索](/对基于Git的版本控制服务的通用攻击面的探索.pdf)
 * [自动化API漏洞Fuzz实战【KCon2022】](/自动化API漏洞Fuzz实战【KCon2022】.pdf)
+* [Hacking JSON](/Bookmarks/Hacking%20JSON【KCon2022】.pdf)
 * [Magic in RASP-attack and defense【KCon2022】 ](/Magic%20in%20RASP-attack%20and%20defense【KCon2022】%20.pdf)
 * [tabby java code review like a pro【KCon2022】](/tabby%20java%20code%20review%20like%20a%20pro【KCon2022】.pdf)
 * [A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages](/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf)
