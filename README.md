@@ -3,6 +3,7 @@
     - [WAF](#waf)
       - [waf-bypass-techniques-using-http-standard-and-web-servers-behaviour](#waf-bypass-techniques-using-http-standard-and-web-servers-behaviour)
       - [Bug Writeup: RCE via SSTI on Spring Boot Error Page with Akamai WAF Bypass](#bug-writeup-rce-via-ssti-on-spring-boot-error-page-with-akamai-waf-bypass)
+      - [Cloudflare's handling of a bug in interpreting IPv4-mapped IPv6 addresses](#cloudflares-handling-of-a-bug-in-interpreting-ipv4-mapped-ipv6-addresses)
     - [OAuth](#oauth)
       - [hidden-oauth-attack-vectors](#hidden-oauth-attack-vectors)
     - [Cache Attack](#cache-attack)
@@ -48,10 +49,11 @@
 ## WebSites
 ### WAF
 #### waf-bypass-techniques-using-http-standard-and-web-servers-behaviour
-
 * [waf-bypass-techniques-using-http-standard-and-web-servers-behaviour](https://www.slideshare.net/SoroushDalili/waf-bypass-techniques-using-http-standard-and-web-servers-behaviour)  
 #### Bug Writeup: RCE via SSTI on Spring Boot Error Page with Akamai WAF Bypass
 * [Bug Writeup: RCE via SSTI on Spring Boot Error Page with Akamai WAF Bypass](https://h1pmnh.github.io/post/writeup_spring_el_waf_bypass/)
+#### Cloudflare's handling of a bug in interpreting IPv4-mapped IPv6 addresses
+* [Cloudflare's handling of a bug in interpreting IPv4-mapped IPv6 addresses](https://blog.cloudflare.com/cloudflare-handling-bug-interpreting-ipv4-mapped-ipv6-addresses/) 
 ### OAuth
 #### hidden-oauth-attack-vectors
 * [hidden-oauth-attack-vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)
