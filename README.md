@@ -20,6 +20,8 @@
       - [Bypassing OGNL sandboxes for fun and charities](#bypassing-ognl-sandboxes-for-fun-and-charities)
     - [XXE](#xxe)
       - [exploiting-xxe-with-local-dtd-files](#exploiting-xxe-with-local-dtd-files)
+    - [SSRF](#ssrf)
+      - [SSRF vulnerabilities caused by SNI proxy misconfigurations](#ssrf-vulnerabilities-caused-by-sni-proxy-misconfigurations)
     - [XSS](#xss)
       - [如何防止XSS攻击？](#如何防止xss攻击)
     - [ESI Injection](#esi-injection)
@@ -82,6 +84,9 @@
 ### XXE
 #### exploiting-xxe-with-local-dtd-files
 * [exploiting-xxe-with-local-dtd-files](https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/)
+### SSRF
+#### SSRF vulnerabilities caused by SNI proxy misconfigurations
+* [SSRF vulnerabilities caused by SNI proxy misconfigurations](https://www.invicti.com/blog/web-security/ssrf-vulnerabilities-caused-by-sni-proxy-misconfigurations/)
 ### XSS
 #### 如何防止XSS攻击？
 * [如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
