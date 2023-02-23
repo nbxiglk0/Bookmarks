@@ -9,6 +9,7 @@
     - [Cache Attack](#cache-attack)
       - [Caching the Un-cacheables - Abusing URL Parser Confusions (Web Cache Poisoning Technique)](#caching-the-un-cacheables---abusing-url-parser-confusions-web-cache-poisoning-technique)
     - [JAVA](#java)
+      - [jetty-features-for-hacking-web-apps](#jetty-features-for-hacking-web-apps)
       - [design-patterns-java](#design-patterns-java)
       - [Java即时编译器原理解析及实践](#java即时编译器原理解析及实践)
       - [Java线程池实现原理](#java线程池实现原理)
@@ -63,6 +64,8 @@
 #### Caching the Un-cacheables - Abusing URL Parser Confusions (Web Cache Poisoning Technique)
 * [Caching the Un-cacheables - Abusing URL Parser Confusions (Web Cache Poisoning Technique)](https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html)
 ### JAVA
+#### jetty-features-for-hacking-web-apps
+* [jetty-features-for-hacking-web-apps](https://swarm.ptsecurity.com/jetty-features-for-hacking-web-apps/)
 #### design-patterns-java
 * [design-patterns-java](https://www.decipherzone.com/blog-detail/design-patterns-java?continueFlag=1f350539170b2ba2f112b6ed2113990e)
 #### Java即时编译器原理解析及实践
