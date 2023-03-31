@@ -37,6 +37,8 @@
     - [PHP](#php)
       - [PHP FILTERS CHAIN: WHAT IS IT AND HOW TO USE IT](#php-filters-chain-what-is-it-and-how-to-use-it)
       - [persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html](#persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-therehtml)
+    - [CORS](#cors)
+      - [Think Outside the Scope: Advanced CORS Exploitation Techniques](#think-outside-the-scope-advanced-cors-exploitation-techniques)
     - [DNS](#dns)
       - [Melting the DNS Iceberg: Taking over your infrastructuredds Kaminsky style](#melting-the-dns-iceberg-taking-over-your-infrastructuredds-kaminsky-style)
       - [guide-to-dns-takeovers](#guide-to-dns-takeovers)
@@ -92,8 +94,9 @@
 #### [Exploring the World of ESI Injection](https://infosecwriteups.com/exploring-the-world-of-esi-injection-b86234e66f91?source=social.tw)
 ### PHP
 #### [PHP FILTERS CHAIN: WHAT IS IT AND HOW TO USE IT](https://www.synacktiv.com/publications/php-filters-chain-what-is-it-and-how-to-use-it.html#)  
-
 #### [persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html](https://www.synacktiv.com/publications/persistent-php-payloads-in-pngs-how-to-inject-php-code-in-an-image-and-keep-it-there.html)
+### CORS
+#### [Think Outside the Scope: Advanced CORS Exploitation Techniques](https://infosecwriteups.com/think-outside-the-scope-advanced-cors-exploitation-techniques-dad019c68397)
 ### DNS
 #### [Melting the DNS Iceberg: Taking over your infrastructuredds Kaminsky style](https://sec-consult.com/blog/detail/melting-the-dns-iceberg-taking-over-your-infrastructure-kaminsky-style/)
 #### [guide-to-dns-takeovers](https://blog.projectdiscovery.io/guide-to-dns-takeovers/)
