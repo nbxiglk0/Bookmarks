@@ -23,8 +23,10 @@
       - [Java魔法类：Unsafe应用解析](#java魔法类unsafe应用解析)
       - [MyBatis缓存机制](#mybatis缓存机制)
       - [Bypassing OGNL sandboxes for fun and charities](#bypassing-ognl-sandboxes-for-fun-and-charities)
+      - [look-mama-no-templatesimpl](#look-mama-no-templatesimpl)
     - [XXE](#xxe)
       - [exploiting-xxe-with-local-dtd-files](#exploiting-xxe-with-local-dtd-files)
+      - [xxe+jar协议缓存实现命令执行](#xxejar协议缓存实现命令执行)
     - [SSRF](#ssrf)
       - [SSRF vulnerabilities caused by SNI proxy misconfigurations](#ssrf-vulnerabilities-caused-by-sni-proxy-misconfigurations)
       - [SSRF Cross Protocol Redirect Bypass](#ssrf-cross-protocol-redirect-bypass)
@@ -55,6 +57,7 @@
       - [us-17-Gil-Web-Cache-Deception-Attack-wp](#us-17-gil-web-cache-deception-attack-wp)
       - [Bug Bounty on Steroids](#bug-bounty-on-steroids)
       - [What is SSRF and how to Detect them on Web Application](#what-is-ssrf-and-how-to-detect-them-on-web-application)
+      - [BCS2022-探索JNDI攻击](#bcs2022-探索jndi攻击)
 # Bookmarks
 一些随手存的文章和pdf
 ## WebSites
@@ -81,8 +84,10 @@
 #### [Java魔法类：Unsafe应用解析](https://tech.meituan.com/2019/02/14/talk-about-java-magic-class-unsafe.html)
 #### [MyBatis缓存机制](https://tech.meituan.com/2018/01/19/mybatis-cache.html)
 #### [Bypassing OGNL sandboxes for fun and charities](https://github.blog/2023-01-27-bypassing-ognl-sandboxes-for-fun-and-charities/)
+#### [look-mama-no-templatesimpl](https://mogwailabs.de/en/blog/2023/04/look-mama-no-templatesimpl/)
 ### XXE
 #### [exploiting-xxe-with-local-dtd-files](https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/)
+#### [xxe+jar协议缓存实现命令执行](https://1oecho.github.io/mCQ5Tu20m/)
 ### SSRF
 #### [SSRF vulnerabilities caused by SNI proxy misconfigurations](https://www.invicti.com/blog/web-security/ssrf-vulnerabilities-caused-by-sni-proxy-misconfigurations/)
 #### [SSRF Cross Protocol Redirect Bypass](https://blog.doyensec.com//2023/03/16/ssrf-remediation-bypass.html)
@@ -114,3 +119,4 @@
 #### [us-17-Gil-Web-Cache-Deception-Attack-wp](/us-17-Gil-Web-Cache-Deception-Attack-wp.pdf)
 #### [Bug Bounty on Steroids](/Bug%20Bounty%20on%20Steroids.pdf)
 #### [What is SSRF and how to Detect them on Web Application](/What%20is%20SSRF%20and%20how%20to%20Detect%20them%20on%20Web%20Application.pdf)
+#### [BCS2022-探索JNDI攻击](./BCS2022-%E6%8E%A2%E7%B4%A2JNDI%E6%94%BB%E5%87%BB.pdf)
