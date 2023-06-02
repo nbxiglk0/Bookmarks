@@ -58,6 +58,7 @@
       - [Bug Bounty on Steroids](#bug-bounty-on-steroids)
       - [What is SSRF and how to Detect them on Web Application](#what-is-ssrf-and-how-to-detect-them-on-web-application)
       - [BCS2022-探索JNDI攻击](#bcs2022-探索jndi攻击)
+      - [AS-23-Yuanzhen-A-new-attack-interface-in-Java](#as-23-yuanzhen-a-new-attack-interface-in-java)
 # Bookmarks
 一些随手存的文章和pdf
 ## WebSites
@@ -120,3 +121,4 @@
 #### [Bug Bounty on Steroids](/Bug%20Bounty%20on%20Steroids.pdf)
 #### [What is SSRF and how to Detect them on Web Application](/What%20is%20SSRF%20and%20how%20to%20Detect%20them%20on%20Web%20Application.pdf)
 #### [BCS2022-探索JNDI攻击](./BCS2022-%E6%8E%A2%E7%B4%A2JNDI%E6%94%BB%E5%87%BB.pdf)
+#### [AS-23-Yuanzhen-A-new-attack-interface-in-Java](./AS-23-Yuanzhen-A-new-attack-interface-in-Java.pdf)
