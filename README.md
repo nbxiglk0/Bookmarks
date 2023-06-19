@@ -12,6 +12,8 @@
       - [apache-pinot-sqli-rce](#apache-pinot-sqli-rce)
     - [WSGI](#wsgi)
       - [A New Vector For “Dirty” Arbitrary File Write to RCE](#a-new-vector-for-dirty-arbitrary-file-write-to-rce)
+    - [gRPC](#grpc)
+      - [gRPC Basic](#grpc-basic)
     - [JAVA](#java)
       - [jetty-features-for-hacking-web-apps](#jetty-features-for-hacking-web-apps)
       - [design-patterns-java](#design-patterns-java)
@@ -74,6 +76,8 @@
 #### [apache-pinot-sqli-rce](https://blog.doyensec.com/2022/06/09/apache-pinot-sqli-rce.html)
 ### WSGI
 #### [A New Vector For “Dirty” Arbitrary File Write to RCE](https://blog.doyensec.com/2023/02/28/new-vector-for-dirty-arbitrary-file-write-2-rce.html)
+### gRPC
+#### [gRPC Basic](https://grpc.io/docs/what-is-grpc/introduction/)
 ### JAVA
 #### [jetty-features-for-hacking-web-apps](https://swarm.ptsecurity.com/jetty-features-for-hacking-web-apps/)
 #### [design-patterns-java](https://www.decipherzone.com/blog-detail/design-patterns-java?continueFlag=1f350539170b2ba2f112b6ed2113990e)
