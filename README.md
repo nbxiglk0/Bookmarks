@@ -61,6 +61,11 @@
       - [What is SSRF and how to Detect them on Web Application](#what-is-ssrf-and-how-to-detect-them-on-web-application)
       - [BCS2022-探索JNDI攻击](#bcs2022-探索jndi攻击)
       - [AS-23-Yuanzhen-A-new-attack-interface-in-Java](#as-23-yuanzhen-a-new-attack-interface-in-java)
+      - [浅谈saas产品攻防](#浅谈saas产品攻防)
+      - [D1T2 - Make JDBC Attacks Brilliant Again - Xu Yuanzhen \& Chen Hongkun](#d1t2---make-jdbc-attacks-brilliant-again---xu-yuanzhen--chen-hongkun)
+      - [derbyRCE利用](#derbyrce利用)
+      - [openrasp php 浅谈](#openrasp-php-浅谈)
+      - [tomcat下的文件上传RCE姿势](#tomcat下的文件上传rce姿势)
 # Bookmarks
 一些随手存的文章和pdf
 ## WebSites
@@ -126,3 +131,8 @@
 #### [What is SSRF and how to Detect them on Web Application](/What%20is%20SSRF%20and%20how%20to%20Detect%20them%20on%20Web%20Application.pdf)
 #### [BCS2022-探索JNDI攻击](./BCS2022-%E6%8E%A2%E7%B4%A2JNDI%E6%94%BB%E5%87%BB.pdf)
 #### [AS-23-Yuanzhen-A-new-attack-interface-in-Java](./AS-23-Yuanzhen-A-new-attack-interface-in-Java.pdf)
+#### [浅谈saas产品攻防](./%E6%B5%85%E8%B0%88saas%E4%BA%A7%E5%93%81%E6%94%BB%E9%98%B2.pdf)
+#### [D1T2 - Make JDBC Attacks Brilliant Again - Xu Yuanzhen & Chen Hongkun](./D1T2%20-%20Make%20JDBC%20Attacks%20Brilliant%20Again%20-%20Xu%20Yuanzhen%20%26%20Chen%20Hongkun.pdf)
+#### [derbyRCE利用](./derbyRCE%E5%88%A9%E7%94%A8.pdf)  
+#### [openrasp php 浅谈](./openrasp%20php%20%E6%B5%85%E8%B0%88.pdf)  
+#### [tomcat下的文件上传RCE姿势](./tomcat%E4%B8%8B%E7%9A%84%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0RCE%E5%A7%BF%E5%8A%BF.pdf)
