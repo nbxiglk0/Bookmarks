@@ -47,6 +47,8 @@
     - [DNS](#dns)
       - [Melting the DNS Iceberg: Taking over your infrastructuredds Kaminsky style](#melting-the-dns-iceberg-taking-over-your-infrastructuredds-kaminsky-style)
       - [guide-to-dns-takeovers](#guide-to-dns-takeovers)
+    - [JavaScript](#javascript)
+      - [Prototype pollution – and bypassing client-side HTML sanitizers](#prototype-pollution--and-bypassing-client-side-html-sanitizers)
     - [BugBounty](#bugbounty)
       - [$6000 with Microsoft Hall of Fame | Microsoft Firewall Bypass | CRLF to XSS | Microsoft Bug Bounty](#6000-with-microsoft-hall-of-fame--microsoft-firewall-bypass--crlf-to-xss--microsoft-bug-bounty)
   - [PDF](#pdf)
@@ -67,6 +69,7 @@
       - [derbyRCE利用](#derbyrce利用)
       - [openrasp php 浅谈](#openrasp-php-浅谈)
       - [tomcat下的文件上传RCE姿势](#tomcat下的文件上传rce姿势)
+      - [JavaScript\_prototype\_pollution\_attack\_in\_NodeJS](#javascript_prototype_pollution_attack_in_nodejs)
 # Bookmarks
 一些随手存的文章和pdf
 ## WebSites
@@ -117,7 +120,8 @@
 ### DNS
 #### [Melting the DNS Iceberg: Taking over your infrastructuredds Kaminsky style](https://sec-consult.com/blog/detail/melting-the-dns-iceberg-taking-over-your-infrastructure-kaminsky-style/)
 #### [guide-to-dns-takeovers](https://blog.projectdiscovery.io/guide-to-dns-takeovers/)
-
+### JavaScript
+#### [Prototype pollution – and bypassing client-side HTML sanitizers](https://research.securitum.com/prototype-pollution-and-bypassing-client-side-html-sanitizers/)
 ### BugBounty
 #### [$6000 with Microsoft Hall of Fame | Microsoft Firewall Bypass | CRLF to XSS | Microsoft Bug Bounty](https://infosecwriteups.com/6000-with-microsoft-hall-of-fame-microsoft-firewall-bypass-crlf-to-xss-microsoft-bug-bounty-8f6615c47922)
 ## PDF
@@ -138,3 +142,4 @@
 #### [derbyRCE利用](./derbyRCE%E5%88%A9%E7%94%A8.pdf)  
 #### [openrasp php 浅谈](./openrasp%20php%20%E6%B5%85%E8%B0%88.pdf)  
 #### [tomcat下的文件上传RCE姿势](./tomcat%E4%B8%8B%E7%9A%84%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0RCE%E5%A7%BF%E5%8A%BF.pdf)
+#### [JavaScript_prototype_pollution_attack_in_NodeJS](./JavaScript_prototype_pollution_attack_in_NodeJS.pdf)
