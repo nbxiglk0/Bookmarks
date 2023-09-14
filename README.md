@@ -70,6 +70,9 @@
       - [openrasp php 浅谈](#openrasp-php-浅谈)
       - [tomcat下的文件上传RCE姿势](#tomcat下的文件上传rce姿势)
       - [JavaScript\_prototype\_pollution\_attack\_in\_NodeJS](#javascript_prototype_pollution_attack_in_nodejs)
+      - [Java表达式攻防下的黑魔法](#java表达式攻防下的黑魔法)
+      - [Magic In Java Api](#magic-in-java-api)
+      - [Hacking Spring](#hacking-spring)
 # Bookmarks
 一些随手存的文章和pdf
 ## WebSites
@@ -143,3 +146,6 @@
 #### [openrasp php 浅谈](./openrasp%20php%20%E6%B5%85%E8%B0%88.pdf)  
 #### [tomcat下的文件上传RCE姿势](./tomcat%E4%B8%8B%E7%9A%84%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0RCE%E5%A7%BF%E5%8A%BF.pdf)
 #### [JavaScript_prototype_pollution_attack_in_NodeJS](./JavaScript_prototype_pollution_attack_in_NodeJS.pdf)
+#### [Java表达式攻防下的黑魔法](./Java表达式攻防下的黑魔法.pdf)
+#### [Magic In Java Api](./Magic%20In%20Java%20Api.pdf)
+#### [Hacking Spring](./Hacking%20Spring.pdf)
