@@ -35,6 +35,9 @@
       - [SSRF Cross Protocol Redirect Bypass](#ssrf-cross-protocol-redirect-bypass)
     - [XSS](#xss)
       - [如何防止XSS攻击？](#如何防止xss攻击)
+      - [浅谈React框架的XSS及后利用](#浅谈react框架的xss及后利用)
+    - [CSRF](#csrf)
+      - [CSRF 漏洞的末日？关于 Cookie SameSite 那些你不得不知道的事](#csrf-漏洞的末日关于-cookie-samesite-那些你不得不知道的事)
     - [ESI Injection](#esi-injection)
       - [Beyond XSS: Edge Side Include Injection](#beyond-xss-edge-side-include-injection)
       - [esi-injection-part-2-abusing-specific-implementations](#esi-injection-part-2-abusing-specific-implementations)
@@ -111,6 +114,9 @@
 #### [SSRF Cross Protocol Redirect Bypass](https://blog.doyensec.com//2023/03/16/ssrf-remediation-bypass.html)
 ### XSS
 #### [如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
+#### [浅谈React框架的XSS及后利用](https://mp.weixin.qq.com/s/1AU2TEePckzSWpHyuEGGJQ)
+### CSRF
+#### [CSRF 漏洞的末日？关于 Cookie SameSite 那些你不得不知道的事](https://mp.weixin.qq.com/s/YqSxIvbgq1DkAlUL5rBtqA)
 ### ESI Injection
 #### [Beyond XSS: Edge Side Include Injection](https://www.gosecure.net/blog/2018/04/03/beyond-xss-edge-side-include-injection/)
 #### [esi-injection-part-2-abusing-specific-implementations](https://www.gosecure.net/blog/2019/05/02/esi-injection-part-2-abusing-specific-implementations/)
