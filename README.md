@@ -28,6 +28,7 @@
       - [Bypassing OGNL sandboxes for fun and charities](#bypassing-ognl-sandboxes-for-fun-and-charities)
       - [look-mama-no-templatesimpl](#look-mama-no-templatesimpl)
       - [一次实战不出网fastjson1.2.31](#一次实战不出网fastjson1231)
+      - [美团RASP大规模研发部署实践总结](#美团rasp大规模研发部署实践总结)
     - [XXE](#xxe)
       - [exploiting-xxe-with-local-dtd-files](#exploiting-xxe-with-local-dtd-files)
       - [xxe+jar协议缓存实现命令执行](#xxejar协议缓存实现命令执行)
@@ -108,6 +109,7 @@
 #### [Bypassing OGNL sandboxes for fun and charities](https://github.blog/2023-01-27-bypassing-ognl-sandboxes-for-fun-and-charities/)
 #### [look-mama-no-templatesimpl](https://mogwailabs.de/en/blog/2023/04/look-mama-no-templatesimpl/)
 #### [一次实战不出网fastjson1.2.31](https://mp.weixin.qq.com/s/fq3JZSn_sGn3acJkHt6Z8w)
+#### [美团RASP大规模研发部署实践总结](https://mp.weixin.qq.com/s/D9N09s9Ohg_u4LcMEmvSXg)
 ### XXE
 #### [exploiting-xxe-with-local-dtd-files](https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/)
 #### [xxe+jar协议缓存实现命令执行](https://1oecho.github.io/mCQ5Tu20m/)
