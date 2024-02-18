@@ -36,6 +36,8 @@
     - [SSRF](#ssrf)
       - [SSRF vulnerabilities caused by SNI proxy misconfigurations](#ssrf-vulnerabilities-caused-by-sni-proxy-misconfigurations)
       - [SSRF Cross Protocol Redirect Bypass](#ssrf-cross-protocol-redirect-bypass)
+      - [PDF Export SSRF](#pdf-export-ssrf)
+      - [finding-ssrf-via-html-injection-inside-a-pdf-file](#finding-ssrf-via-html-injection-inside-a-pdf-file)
     - [XSS](#xss)
       - [如何防止XSS攻击？](#如何防止xss攻击)
       - [浅谈React框架的XSS及后利用](#浅谈react框架的xss及后利用)
@@ -118,6 +120,8 @@
 ### SSRF
 #### [SSRF vulnerabilities caused by SNI proxy misconfigurations](https://www.invicti.com/blog/web-security/ssrf-vulnerabilities-caused-by-sni-proxy-misconfigurations/)
 #### [SSRF Cross Protocol Redirect Bypass](https://blog.doyensec.com//2023/03/16/ssrf-remediation-bypass.html)
+#### [PDF Export SSRF](https://hackerone.com/reports/2262382)
+#### [finding-ssrf-via-html-injection-inside-a-pdf-file](https://blog.appsecco.com/finding-ssrf-via-html-injection-inside-a-pdf-file-on-aws-ec2-214cc5ec5d90)
 ### XSS
 #### [如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
 #### [浅谈React框架的XSS及后利用](https://mp.weixin.qq.com/s/1AU2TEePckzSWpHyuEGGJQ)
