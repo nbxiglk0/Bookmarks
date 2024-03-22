@@ -38,6 +38,7 @@
       - [SSRF Cross Protocol Redirect Bypass](#ssrf-cross-protocol-redirect-bypass)
       - [PDF Export SSRF](#pdf-export-ssrf)
       - [finding-ssrf-via-html-injection-inside-a-pdf-file](#finding-ssrf-via-html-injection-inside-a-pdf-file)
+      - [SSRF on a Headless Browser Becomes Critical!](#ssrf-on-a-headless-browser-becomes-critical)
     - [XSS](#xss)
       - [如何防止XSS攻击？](#如何防止xss攻击)
       - [浅谈React框架的XSS及后利用](#浅谈react框架的xss及后利用)
@@ -122,6 +123,7 @@
 #### [SSRF Cross Protocol Redirect Bypass](https://blog.doyensec.com//2023/03/16/ssrf-remediation-bypass.html)
 #### [PDF Export SSRF](https://hackerone.com/reports/2262382)
 #### [finding-ssrf-via-html-injection-inside-a-pdf-file](https://blog.appsecco.com/finding-ssrf-via-html-injection-inside-a-pdf-file-on-aws-ec2-214cc5ec5d90)
+#### [SSRF on a Headless Browser Becomes Critical!](https://medium.com/@Nightbloodz/ssrf-on-a-headless-browser-becomes-critical-c08daaa1017e)
 ### XSS
 #### [如何防止XSS攻击？](https://tech.meituan.com/2018/09/27/fe-security.html)
 #### [浅谈React框架的XSS及后利用](https://mp.weixin.qq.com/s/1AU2TEePckzSWpHyuEGGJQ)
