@@ -5,6 +5,7 @@
       - [Bug Writeup: RCE via SSTI on Spring Boot Error Page with Akamai WAF Bypass](#bug-writeup-rce-via-ssti-on-spring-boot-error-page-with-akamai-waf-bypass)
       - [Cloudflare's handling of a bug in interpreting IPv4-mapped IPv6 addresses](#cloudflares-handling-of-a-bug-in-interpreting-ipv4-mapped-ipv6-addresses)
       - [exploiting-http-parsers-inconsistencies](#exploiting-http-parsers-inconsistencies)
+      - [UTF-8 Overlong Encoding](#utf-8-overlong-encoding)
     - [OAuth](#oauth)
       - [hidden-oauth-attack-vectors](#hidden-oauth-attack-vectors)
     - [Cache Attack](#cache-attack)
@@ -30,6 +31,7 @@
       - [一次实战不出网fastjson1.2.31](#一次实战不出网fastjson1231)
       - [美团RASP大规模研发部署实践总结](#美团rasp大规模研发部署实践总结)
       - [Mybatis OGNL表达式注入](#mybatis-ognl表达式注入)
+      - [当Nashorn失去括号：非典型Java命令执行绕过](#当nashorn失去括号非典型java命令执行绕过)
     - [XXE](#xxe)
       - [exploiting-xxe-with-local-dtd-files](#exploiting-xxe-with-local-dtd-files)
       - [xxe+jar协议缓存实现命令执行](#xxejar协议缓存实现命令执行)
@@ -82,6 +84,7 @@
       - [Java表达式攻防下的黑魔法](#java表达式攻防下的黑魔法)
       - [Magic In Java Api](#magic-in-java-api)
       - [Hacking Spring](#hacking-spring)
+      - [HTTP Request Splitting](#http-request-splitting)
 # Bookmarks
 一些随手存的文章和pdf
 ## WebSites
@@ -90,6 +93,7 @@
 #### [Bug Writeup: RCE via SSTI on Spring Boot Error Page with Akamai WAF Bypass](https://h1pmnh.github.io/post/writeup_spring_el_waf_bypass/)
 #### [Cloudflare's handling of a bug in interpreting IPv4-mapped IPv6 addresses](https://blog.cloudflare.com/cloudflare-handling-bug-interpreting-ipv4-mapped-ipv6-addresses/) 
 #### [exploiting-http-parsers-inconsistencies](https://rafa.hashnode.dev/exploiting-http-parsers-inconsistencies)
+#### [UTF-8 Overlong Encoding](https://www.leavesongs.com/PENETRATION/utf-8-overlong-encoding.html)
 ### OAuth
 #### [hidden-oauth-attack-vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)
 ### Cache Attack
@@ -115,6 +119,7 @@
 #### [一次实战不出网fastjson1.2.31](https://mp.weixin.qq.com/s/fq3JZSn_sGn3acJkHt6Z8w)
 #### [美团RASP大规模研发部署实践总结](https://mp.weixin.qq.com/s/D9N09s9Ohg_u4LcMEmvSXg)
 #### [Mybatis OGNL表达式注入](https://forum.butian.net/share/1749)
+#### [当Nashorn失去括号：非典型Java命令执行绕过](https://www.leavesongs.com/PENETRATION/nashorn-rce-without-parentheses.html)
 ### XXE
 #### [exploiting-xxe-with-local-dtd-files](https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/)
 #### [xxe+jar协议缓存实现命令执行](https://1oecho.github.io/mCQ5Tu20m/)
@@ -167,3 +172,4 @@
 #### [Java表达式攻防下的黑魔法](./Java表达式攻防下的黑魔法.pdf)
 #### [Magic In Java Api](./Magic%20In%20Java%20Api.pdf)
 #### [Hacking Spring](./Hacking%20Spring.pdf)
+#### [HTTP Request Splitting](./HTTP%20Request%20Splitting%20vulnerabilities%20exploitation.pdf)
