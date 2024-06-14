@@ -8,6 +8,8 @@
       - [UTF-8 Overlong Encoding](#utf-8-overlong-encoding)
     - [OAuth](#oauth)
       - [hidden-oauth-attack-vectors](#hidden-oauth-attack-vectors)
+    - [Race Conditions](#race-conditions)
+      - [Smashing the state machine: the true potential of web race conditions](#smashing-the-state-machine-the-true-potential-of-web-race-conditions)
     - [Cache Attack](#cache-attack)
       - [Caching the Un-cacheables - Abusing URL Parser Confusions (Web Cache Poisoning Technique)](#caching-the-un-cacheables---abusing-url-parser-confusions-web-cache-poisoning-technique)
     - [SQL Inject](#sql-inject)
@@ -96,6 +98,8 @@
 #### [UTF-8 Overlong Encoding](https://www.leavesongs.com/PENETRATION/utf-8-overlong-encoding.html)
 ### OAuth
 #### [hidden-oauth-attack-vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)
+### Race Conditions
+#### [Smashing the state machine: the true potential of web race conditions](https://portswigger.net/research/smashing-the-state-machine)
 ### Cache Attack
 #### [Caching the Un-cacheables - Abusing URL Parser Confusions (Web Cache Poisoning Technique)](https://nokline.github.io/bugbounty/2022/09/02/Glassdoor-Cache-Poisoning.html)
 ### SQL Inject
